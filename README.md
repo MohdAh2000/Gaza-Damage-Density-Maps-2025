@@ -6,3 +6,7 @@ The analysis was conducted in 'ArcGIS Pro' using the 'Kernel Density' tool to id
 Data Source: UNOSAT
 Tool Used: ArcGIS Pro  
 Output: JPEG map showing destruction density.
+
+[Gaza Damage Density Map](GazaDamage.jpg)
+
+*Figure 1: Kernel Density map illustrating the spatial concentration of destruction across Gaza (2025).*
